@@ -8,6 +8,12 @@
 
 I'm a passionate **Software Developer** 👨‍💻, currently studying **B.Sc. Hons in Information Technology** at the University of Moratuwa 🎓.
 
+<br>
+
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
+<br><br>
+
 - 🔭 I’m currently working on: 
   - React.js Projects
   - A second-year group project
