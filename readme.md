@@ -10,15 +10,13 @@ I'm a passionate **Software Developer** 👨‍💻, currently studying **B.Sc. 
 
 - 🔭 I’m currently working on: 
   - React.js Projects
-  - Data Structures & Algorithms
   - A second-year group project
 - 🌱 I’m currently learning: 
   - Advanced JavaScript
-  - SQL & Database Design
-- 💬 Ask me about: 
   - Web Development (React.js, Node.js)
-  - Database Management (SQL, NoSQL)
-  - Algorithms & Data Structures
+- 💬 Ask me about:
+  - C Programming
+    
 - ⚡ Fun fact: I love solving coding challenges and playing strategy games 🕹️.
 
 ---
@@ -26,8 +24,6 @@ I'm a passionate **Software Developer** 👨‍💻, currently studying **B.Sc. 
 ## 🛠️ Tech Stack:
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 - **Frontend**: ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-- **Databases**: ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql) ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 
 ---
