@@ -13,6 +13,7 @@ I'm a passionate **Software Developer** 👨‍💻, currently studying **B.Sc. 
   - A second-year group project
 - 🌱 I’m currently learning: 
   - Advanced JavaScript
+  - Java
   - Web Development (React.js, Node.js)
 - 💬 Ask me about:
   - C Programming
@@ -24,20 +25,20 @@ I'm a passionate **Software Developer** 👨‍💻, currently studying **B.Sc. 
 ## 🛠️ Tech Stack:
 - **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript) ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 - **Frontend**: ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react) ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-- **Tools**: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code) ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+- **Tools**: ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![VSCode](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code) 
 
 ---
 
 ## 📊 GitHub Stats:
 
-![Thuvaragan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Thuvaragan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-thuva&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-thuva&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=g-thuva&theme=onedark)
 
 ---
 
