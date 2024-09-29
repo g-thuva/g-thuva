@@ -1,7 +1,7 @@
 # Hi there, I'm Thuvaragan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square) 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
+![Profile Views](https://komarev.com/ghpvc/?username=g-thuva&color=blueviolet&style=flat-square) 
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/g-thuva)
 [![LinkedIn Badge](https://img.shields.io/badge/-Thuvaragan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-profile)](https://www.linkedin.com/in/your-profile/)
 
 ---
