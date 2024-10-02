@@ -16,9 +16,9 @@ I'm a passionate **Software Developer** 👨‍💻, currently studying **B.Sc. 
   - React.js Projects
   - A second-year group project
 - 🌱 I’m currently learning: 
-  - Advanced JavaScript
+  - React.js
   - Java
-  - Web Development (React.js, Node.js)
+  
 - 💬 Ask me about:
   - C Programming
     
