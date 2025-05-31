@@ -15,9 +15,11 @@ I'm a passionate **Software Developer** 👨‍💻, currently studying **B.Sc. 
 - 🔭 I’m currently working on: 
   - React.js Projects
   - A second-year group project
+  - E-Commerce Website
 - 🌱 I’m currently learning: 
   - React.js
   - Java
+  - c#
   
 - 💬 Ask me about:
   - C Programming
